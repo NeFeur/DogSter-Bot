@@ -1,1 +1,1 @@
-web: node dogbot.js
+worker: node dogbot.js
